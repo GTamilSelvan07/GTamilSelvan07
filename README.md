@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.tamilselvan.info/](https://www.tamilselvan.info/)
 
-- 💬 Ask me about **Human Centered Artificial Intelligence, Extended Reality**
+- 💬 Ask me about **Human - AI Collaboration in Extended Reality**
 
 - 📫 How to reach me **themastergts007@gmail.com**
 
