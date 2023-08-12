@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Selvan Gunasekaran</h1>
-<h3 align="center">Harmonizing the Digital and Physical Realms | Uniting Humanity with AI for a Better World</h3>
+<h3 align="center">"🌐 Bridging minds and code to shape new realities: Exploring Human-AI synergy in digital realms for amplified group cognition and harmonized interactions. 🚀 #ExtendedReality #HumanAICollaboration"</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.tamilselvan.info/](https://www.tamilselvan.info/)
 
