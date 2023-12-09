@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Human - AI Collaboration in Extended Reality**
 
-- 📫 How to reach me **themastergts007@gmail.com**
+- 📫 How to reach me **tg469@aucklanduni.ac.nz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
